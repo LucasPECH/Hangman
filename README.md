@@ -1,5 +1,5 @@
 # Hangman
 
-Développement du jeu du pendu en python (projet de L1)
+Développement d'un jeu du pendu en python pour un joueur. Le programme choisit un mot au hasard que le joueur doit deviner avant d'être pendu. (projet de L1)
 
 Réalisé en groupe avec Samuel CRETEUR
